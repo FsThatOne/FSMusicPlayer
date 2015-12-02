@@ -196,7 +196,7 @@
 				B633A7571C0F4F5500296752 /* FSMusicLrcTools.m */,
 				B633A7591C0F4FEA00296752 /* FSMusicTools.h */,
 				B633A75A1C0F4FEA00296752 /* FSMusicTools.m */,
-				B633A75C1C0F51F500296752 /* New Group */,
+				B633A75C1C0F51F500296752 /* ToolsGroup */,
 				B633A6EE1C0F47DF00296752 /* Main.storyboard */,
 				B633A7BA1C0F574000296752 /* Assets.xcassets */,
 				B633A6F31C0F47DF00296752 /* LaunchScreen.storyboard */,
@@ -278,7 +278,7 @@
 			path = Sources;
 			sourceTree = "<group>";
 		};
-		B633A75C1C0F51F500296752 /* New Group */ = {
+		B633A75C1C0F51F500296752 /* ToolsGroup */ = {
 			isa = PBXGroup;
 			children = (
 				B633A75D1C0F521900296752 /* FSidModel.h */,
@@ -290,7 +290,7 @@
 				B633A7661C0F52F000296752 /* FSStatus.h */,
 				B633A7671C0F52F000296752 /* FSStatus.m */,
 			);
-			name = "New Group";
+			name = ToolsGroup;
 			path = MJExtension;
 			sourceTree = "<group>";
 		};
@@ -686,6 +686,7 @@
 				B633A7111C0F47E000296752 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B633A7121C0F47E000296752 /* Build configuration list for PBXNativeTarget "FSMusicPlayerTests" */ = {
 			isa = XCConfigurationList;
@@ -694,6 +695,7 @@
 				B633A7141C0F47E000296752 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B633A7151C0F47E000296752 /* Build configuration list for PBXNativeTarget "FSMusicPlayerUITests" */ = {
 			isa = XCConfigurationList;
@@ -702,6 +704,7 @@
 				B633A7171C0F47E000296752 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
